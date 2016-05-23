@@ -5,11 +5,20 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.7" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/OpenCV" />
+            <option value="$PROJECT_DIR$/opencvsample1" />
+            <option value="$PROJECT_DIR$/opencvsample2" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/OpenCV" />
+            <option value="$PROJECT_DIR$/opencvsample1" />
+            <option value="$PROJECT_DIR$/opencvsample2" />
           </set>
         </option>
       </GradleProjectSettings>
